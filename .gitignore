@@ -138,3 +138,21 @@ ui-tests/.pnp.*
 
 # generated html
 notebook/templates/*.html
+
+.vscode
+*.vscode
+.vscode-server
+.vscode-test
+.vscode-test-remote
+.vscode-test-remote-server
+.vscode-insiders
+.vscode-oss
+.vscode-test-remote-insiders
+.vscode-test-remote-oss
+.vscode-test-insiders       
+.vscode-test-oss
+.vscode-test-remote-insiders-server
+.vscode-test-remote-oss-server
+.vscode-test-insiders-server
+.vscode-test-oss-server
+.vscode/
