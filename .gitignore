@@ -160,3 +160,5 @@ notebook/templates/*.html
 .vscode/
 
 .idea/
+
+.venv/
