@@ -156,3 +156,7 @@ notebook/templates/*.html
 .vscode-test-insiders-server
 .vscode-test-oss-server
 .vscode/
+
+.vscode/
+
+.idea/
