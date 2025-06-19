@@ -162,3 +162,6 @@ notebook/templates/*.html
 .idea/
 
 .venv/
+venv/
+env/
+venv310/
